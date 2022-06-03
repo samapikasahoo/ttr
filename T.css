@@ -1,0 +1,63 @@
+#myDIV {
+  margin:auto;
+  border: 1.5px solid black;
+  background-color: black;
+  width:80%;
+  
+}
+#title {
+background-color:black;
+font-size: 40px;
+font-weight: bold;
+color: white;
+margin: 0;
+padding: 2px;
+text-align: center;
+height: 50px;
+width: 95%;
+}
+#myForm {
+margin-top: 0px;
+z-index: -1;
+text-align: center;
+height: 50px;
+
+}
+#name {
+width: 320px;
+height: 30px;
+font-size: 26px;
+line-height: 20px;
+color: black;
+border-style: solid;
+border-width: 2.5px;
+border-color: black;
+padding-left: 5px;
+padding-top: 12px;
+display: inline-block;
+vertical-align: middle;
+margin-left: 80px;
+margin-right: 0px;
+}
+body {
+  background-color: lightgray;
+}
+
+#end {
+font-size: 25px;
+margin-left: 0px;
+display: inline-block;
+vertical-align: middle;
+height: 50px;
+width: 120px;
+}
+.append_list {
+  margin-top:10px; 
+  
+     
+ }
+ 
+ ::placeholder {
+  color: black;
+  font-size:large; /* Firefox */
+}
